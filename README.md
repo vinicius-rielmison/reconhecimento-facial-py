@@ -40,6 +40,18 @@ A captura é feita pela **webcam**, e o sistema desenha retângulos azuis ao red
 
 ---
 
+## 📌 Importância dos arquivos XML
+
+Os arquivos **XML** contêm os **modelos pré-treinados de detecção de padrões faciais e oculares**.  
+- `haarcascade_frontalface_default.xml` → Detecta rostos humanos.  
+- `haarcascade_eye.xml` → Detecta olhos dentro da região do rosto.  
+
+Esses arquivos são essenciais para que o código funcione corretamente, pois o OpenCV **não consegue detectar rostos ou olhos sem eles**.  
+
+💡 **Observação:** Os arquivos XML já estão prontos para uso e podem ser baixados diretamente junto com este projeto.
+
+---
+
 ## 🖥️ Requisitos
 
 Antes de rodar o projeto, verifique se você possui:
