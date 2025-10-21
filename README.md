@@ -62,6 +62,15 @@ Antes de rodar o projeto, verifique se você possui:
 
 ---
 
+## 💡 Por que esse projeto é legal?
+
+- ⚡ **Rápido e leve:** roda em qualquer PC ou notebook  
+- 🎯 **Detecção em tempo real:** veja os resultados instantaneamente  
+- 🌎 **Multiplataforma:** funciona em Windows, Linux e macOS  
+- 🛠️ **Totalmente personalizável:** adapte para monitoramento, segurança, controle de acesso ou projetos educacionais  
+
+---
+
 ## ⚙️ Instalação da biblioteca OpenCV
 
 Abra o **Prompt de Comando (cmd)** ou **Terminal** e execute:
